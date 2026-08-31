@@ -1,4 +1,29 @@
-# ATLAS on macOS
+# GeoGuessr Cheat for Mac: ATLAS on macOS
+
+<p align="center">
+  <img src="images/logo.png" alt="ATLAS GeoGuessr cheat for Mac logo" width="110" />
+</p>
+
+<p align="center">
+  <b>A GeoGuessr cheat that runs on a MacBook, through the browser, on the same licence key as Windows.</b><br/>
+  Country, region and coordinates in the panel, and the pin placed for you. No Mac app to install.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Sven233333/atlas-geoguessr-macos/stargazers"><img alt="GitHub stars for the ATLAS GeoGuessr cheat on macOS" src="https://img.shields.io/github/stars/Sven233333/atlas-geoguessr-macos?style=for-the-badge&logo=github&color=FFD700"></a>
+  <a href="https://geoguessrcheats.com/plans"><img alt="Get ATLAS for macOS" src="https://img.shields.io/badge/Get%20ATLAS-geoguessrcheats.com-FF6600?style=for-the-badge"></a>
+  <a href="https://discord.gg/zwYXRgRRHc"><img alt="ATLAS Discord for Mac questions" src="https://img.shields.io/badge/Discord-Ask%20us-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <img alt="Runs on macOS through Chrome or Firefox" src="https://img.shields.io/badge/platform-macOS-999999?style=for-the-badge&logo=apple&logoColor=white">
+  <img alt="Apple Silicon and Intel both supported" src="https://img.shields.io/badge/silicon%20%2B%20intel-both-2ecc71?style=for-the-badge">
+  <img alt="Supported since version 1.6" src="https://img.shields.io/badge/since-v1.6-FF6600?style=for-the-badge">
+</p>
+
+<p align="center">
+  <a href="https://github.com/Sven233333/Atlas-geoguessr-bot"><b>All platforms</b></a> &middot;
+  <a href="https://github.com/Sven233333/atlas-geoguessr-chrome-extension">Chrome</a> &middot;
+  <a href="https://github.com/Sven233333/atlas-geoguessr-firefox-addon">Firefox</a> &middot;
+  <a href="https://geoguessrcheats.com/faq">FAQ</a>
+</p>
 
 Short answer first, because most pages make you read three paragraphs before they
 admit what is missing.
