@@ -13,6 +13,7 @@
   <a href="https://github.com/Sven233333/atlas-geoguessr-macos/stargazers"><img alt="GitHub stars for the ATLAS GeoGuessr cheat on macOS" src="https://img.shields.io/github/stars/Sven233333/atlas-geoguessr-macos?style=for-the-badge&logo=github&color=FFD700"></a>
   <a href="https://geoguessrcheats.com/plans"><img alt="Get ATLAS for macOS" src="https://img.shields.io/badge/Get%20ATLAS-geoguessrcheats.com-FF6600?style=for-the-badge"></a>
   <a href="https://discord.gg/zwYXRgRRHc"><img alt="ATLAS Discord for Mac questions" src="https://img.shields.io/badge/Discord-Ask%20us-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://youtu.be/K63r-8UcvPc"><img alt="Watch an ATLAS GeoGuessr round on YouTube" src="https://img.shields.io/badge/Watch-on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <img alt="Runs on macOS through Chrome or Firefox" src="https://img.shields.io/badge/platform-macOS-999999?style=for-the-badge&logo=apple&logoColor=white">
   <img alt="Apple Silicon and Intel both supported" src="https://img.shields.io/badge/silicon%20%2B%20intel-both-2ecc71?style=for-the-badge">
   <img alt="Supported since version 1.6" src="https://img.shields.io/badge/since-v1.6-FF6600?style=for-the-badge">
