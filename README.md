@@ -45,6 +45,12 @@ Mac application to install.
 
 ![The ATLAS panel beside a street view round in Firefox on a desktop](images/platforms-firefox.webp)
 
+## Guides on the site
+
+- [GeoGuessr cheat extension for Chrome, Edge and Firefox](https://geoguessrcheats.com/geoguessr-extension)
+- [How to cheat in GeoGuessr, every way](https://geoguessrcheats.com/how-to-cheat-in-geoguessr)
+- [GeoGuessr cheat for iPhone and Android](https://geoguessrcheats.com/phone)
+
 ---
 
 ## What you actually install
