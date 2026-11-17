@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Sven233333/Atlas-geoguessr-bot"><b>All platforms</b></a> &middot;
+  <a href="https://github.com/Sven233333/geoguessr-cheats"><b>All platforms</b></a> &middot;
   <a href="https://github.com/Sven233333/atlas-geoguessr-chrome-extension">Chrome</a> &middot;
   <a href="https://github.com/Sven233333/atlas-geoguessr-firefox-addon">Firefox</a> &middot;
   <a href="https://geoguessrcheats.com/faq">FAQ</a>
@@ -91,14 +91,14 @@ version lives here:
 2. Install the ATLAS extension from that browser's store.
 3. Open a round. The panel opens beside it.
 4. Play seven free rounds. If you want more, a key is
-   [14.99 euro per month, 33.50 per year, or 50 once](https://geoguessrcheats.com/plans),
+   [14.99 euro for 30 days, 33.50 per year, or 50 once](https://geoguessrcheats.com/plans),
    and nothing renews by itself.
 
 ## Apple Silicon and Intel
 
 Both. The extension is browser software, so whatever your Mac runs, it runs.
 Nothing is compiled for your machine and nothing about the prediction happens on
-it either.
+it either. The current extension, 1.7.1, comes with a light and a dark look.
 
 ## Questions
 
@@ -120,7 +120,7 @@ No, that is a separate app with its own install route:
 **Where is the full comparison?**
 [geoguessrcheats.com/platforms](https://geoguessrcheats.com/platforms), and the
 overview repository is
-[Atlas-geoguessr-bot](https://github.com/Sven233333/Atlas-geoguessr-bot).
+[geoguessr-cheats](https://github.com/Sven233333/geoguessr-cheats).
 
 ## Disclaimer
 
